@@ -3,7 +3,7 @@ First Boot Package Install With Automated Apple Software Update is a fork of Fir
 Usage
 ------
 
-1. Download the First_Boot_Package_Install.zip file from the "installer" directory.
+1. Download the First-Boot-Package-Install-With-Automated-Apple-Software-Update.zip file from the "installer" directory.
 
 2. Once downloaded and unzipped, right-click on the package and choose "Show Package Contents".
 
